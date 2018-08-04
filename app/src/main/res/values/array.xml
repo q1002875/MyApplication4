@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="shoes_size">
+
+        <item>尺寸</item>
+        <item>23.5吋  </item>
+        <item>24  吋</item>
+        <item>24.5吋</item>
+        <item>25  吋</item>
+        <item>25.5吋</item>
+
+
+
+    </string-array>
+
+    <string-array name="amount">
+
+        <item>數量</item>
+        <item>1雙</item>
+        <item>2雙</item>
+        <item>3雙</item>
+        <item>4雙</item>
+        <item>5雙</item>
+        <item>6雙</item>
+        <item>7雙</item>
+        <item>8雙</item>
+        <item>9雙</item>
+        <item>10雙</item>
+    </string-array>
+
+
+
+
+</resources>

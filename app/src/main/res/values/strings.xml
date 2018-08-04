@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">W_shoes</string>
+    <string name="title_home">Firstsloe</string>
+    <string name="title_dashboard">Hot</string>
+    <string name="title_notifications">Cart</string>
+    <string name="title_activity_main3">Hot_list</string>
+    <string name="title_activity_main4">Cart</string>
+    <string name="title_activity_login">Cart</string>
+    <string name="title_announcement">!!!!!!!年終大特賣!!!!!!!第二件6折要買要快!!!!!!!年終大特賣!!!!!!!第二件6折要買要快!!!!!!!年終大特賣!!!!!!!第二件6折要買要快!!!!!!!年終大特賣!!!!!!!第二件6折要買要快!!!!!!!年終大特賣!!!!!!!第二件6折要買要快</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">sign_in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_shoes1_1">shoes1_1</string>
+    <string name="shoes1_1_introduce">mit經典款基本素面一字金屬乳膠軟底\n平底鞋 休閒鞋 豆豆鞋 黑 灰 杏</string>
+
+
+    <string name="title_activity_shoes">shoes</string>
+</resources>
